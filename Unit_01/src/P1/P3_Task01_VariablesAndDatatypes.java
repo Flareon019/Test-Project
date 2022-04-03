@@ -1,6 +1,6 @@
 package P1;
 
-public class task_01datatypesAndVariables {
+public class P3_Task01_VariablesAndDatatypes{
 	
 	static int q=11;
 	int p=10;
